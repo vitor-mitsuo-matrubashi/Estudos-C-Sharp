@@ -1,0 +1,10 @@
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\MeuAddinExcel\obj\Debug\net48\MeuAddinExcel.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\MeuAddinExcel\obj\Debug\net48\MeuAddinExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\MeuAddinExcel\obj\Debug\net48\MeuAddinExcel.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\MeuAddinExcel\obj\Debug\net48\MeuAddinExcel.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\MeuAddinExcel\obj\Debug\net48\MeuAddinExcel.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\MeuAddinExcel\obj\Debug\net48\MeuAddinExcel.sourcelink.json
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\MeuAddinExcel\bin\Debug\net48\MeuAddinExcel.dll
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\MeuAddinExcel\bin\Debug\net48\MeuAddinExcel.pdb
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\MeuAddinExcel\obj\Debug\net48\MeuAddinExcel.dll
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\MeuAddinExcel\obj\Debug\net48\MeuAddinExcel.pdb

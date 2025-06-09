@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\Desktop\\Projetos\\ResolucaoExerciciosTeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82E6271F-A5C7-4BD5-ACA6-E3B55EF9B25C}|ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste.csproj|c:\\users\\pichau\\desktop\\projetos\\resolucaoexerciciosteste\\resolucaoexerciciosteste\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E6271F-A5C7-4BD5-ACA6-E3B55EF9B25C}|ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste.csproj|solutionrelative:resolucaoexerciciosteste\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E6271F-A5C7-4BD5-ACA6-E3B55EF9B25C}|ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste.csproj|c:\\users\\pichau\\desktop\\projetos\\resolucaoexerciciosteste\\resolucaoexerciciosteste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E6271F-A5C7-4BD5-ACA6-E3B55EF9B25C}|ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste.csproj|solutionrelative:resolucaoexerciciosteste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E6271F-A5C7-4BD5-ACA6-E3B55EF9B25C}|ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste.csproj|c:\\users\\pichau\\desktop\\projetos\\resolucaoexerciciosteste\\resolucaoexerciciosteste\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E6271F-A5C7-4BD5-ACA6-E3B55EF9B25C}|ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste.csproj|solutionrelative:resolucaoexerciciosteste\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E6271F-A5C7-4BD5-ACA6-E3B55EF9B25C}|ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste.csproj|c:\\users\\pichau\\desktop\\projetos\\resolucaoexerciciosteste\\resolucaoexerciciosteste\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E6271F-A5C7-4BD5-ACA6-E3B55EF9B25C}|ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste.csproj|solutionrelative:resolucaoexerciciosteste\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Projetos\\ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "ResolucaoExerciciosTeste\\Biblioteca.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Projetos\\ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste\\Biblioteca.cs",
+              "RelativeToolTip": "ResolucaoExerciciosTeste\\Biblioteca.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvwwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:22:55.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Projetos\\ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste\\Retangulo.cs",
+              "RelativeDocumentMoniker": "ResolucaoExerciciosTeste\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Projetos\\ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste\\Retangulo.cs",
+              "RelativeToolTip": "ResolucaoExerciciosTeste\\Retangulo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:08:06.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Projetos\\ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste\\Livro.cs",
+              "RelativeDocumentMoniker": "ResolucaoExerciciosTeste\\Livro.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Projetos\\ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste\\Livro.cs",
+              "RelativeToolTip": "ResolucaoExerciciosTeste\\Livro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:07:45.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Projetos\\ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste\\Program.cs",
+              "RelativeDocumentMoniker": "ResolucaoExerciciosTeste\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Projetos\\ResolucaoExerciciosTeste\\ResolucaoExerciciosTeste\\Program.cs",
+              "RelativeToolTip": "ResolucaoExerciciosTeste\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:42:34.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

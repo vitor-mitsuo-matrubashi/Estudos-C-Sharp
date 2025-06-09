@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\Estudo_VF_VP_to_json\Estudo_VF_VP_to_json\obj\Debug\net9.0\Estudo_VF_VP_to_json.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\Estudo_VF_VP_to_json\Estudo_VF_VP_to_json\obj\Debug\net9.0\Estudo_VF_VP_to_json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\Estudo_VF_VP_to_json\Estudo_VF_VP_to_json\obj\Debug\net9.0\Estudo_VF_VP_to_json.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\Estudo_VF_VP_to_json\Estudo_VF_VP_to_json\obj\Debug\net9.0\Estudo_VF_VP_to_json.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\Estudo_VF_VP_to_json\Estudo_VF_VP_to_json\obj\Debug\net9.0\Estudo_VF_VP_to_json.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\Estudo_VF_VP_to_json\Estudo_VF_VP_to_json\obj\Debug\net9.0\Estudo_VF_VP_to_json.sourcelink.json
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\Estudo_VF_VP_to_json\Estudo_VF_VP_to_json\bin\Debug\net9.0\Estudo_VF_VP_to_json.deps.json
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\Estudo_VF_VP_to_json\Estudo_VF_VP_to_json\bin\Debug\net9.0\Estudo_VF_VP_to_json.runtimeconfig.json
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\Estudo_VF_VP_to_json\Estudo_VF_VP_to_json\bin\Debug\net9.0\Estudo_VF_VP_to_json.dll
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\Estudo_VF_VP_to_json\Estudo_VF_VP_to_json\bin\Debug\net9.0\Estudo_VF_VP_to_json.pdb
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\Estudo_VF_VP_to_json\Estudo_VF_VP_to_json\obj\Debug\net9.0\Estudo_VF_VP_to_json.dll
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\Estudo_VF_VP_to_json\Estudo_VF_VP_to_json\obj\Debug\net9.0\Estudo_VF_VP_to_json.pdb
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Addin\Estudo_VF_VP_to_json\Estudo_VF_VP_to_json\obj\Debug\net9.0\Estudo_VF_VP_to_json.genruntimeconfig.cache

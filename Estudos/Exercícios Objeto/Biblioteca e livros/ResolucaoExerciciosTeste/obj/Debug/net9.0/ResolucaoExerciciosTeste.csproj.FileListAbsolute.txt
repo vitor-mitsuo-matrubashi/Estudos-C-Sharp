@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Projetos\ResolucaoExerciciosTeste\ResolucaoExerciciosTeste\obj\Debug\net9.0\ResolucaoExerciciosTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Projetos\ResolucaoExerciciosTeste\ResolucaoExerciciosTeste\obj\Debug\net9.0\ResolucaoExerciciosTeste.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Projetos\ResolucaoExerciciosTeste\ResolucaoExerciciosTeste\obj\Debug\net9.0\ResolucaoExerciciosTeste.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Projetos\ResolucaoExerciciosTeste\ResolucaoExerciciosTeste\obj\Debug\net9.0\ResolucaoExerciciosTeste.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Projetos\ResolucaoExerciciosTeste\ResolucaoExerciciosTeste\bin\Debug\net9.0\ResolucaoExerciciosTeste.exe
+C:\Users\Pichau\Desktop\Projetos\ResolucaoExerciciosTeste\ResolucaoExerciciosTeste\bin\Debug\net9.0\ResolucaoExerciciosTeste.deps.json
+C:\Users\Pichau\Desktop\Projetos\ResolucaoExerciciosTeste\ResolucaoExerciciosTeste\bin\Debug\net9.0\ResolucaoExerciciosTeste.runtimeconfig.json
+C:\Users\Pichau\Desktop\Projetos\ResolucaoExerciciosTeste\ResolucaoExerciciosTeste\bin\Debug\net9.0\ResolucaoExerciciosTeste.dll
+C:\Users\Pichau\Desktop\Projetos\ResolucaoExerciciosTeste\ResolucaoExerciciosTeste\bin\Debug\net9.0\ResolucaoExerciciosTeste.pdb
+C:\Users\Pichau\Desktop\Projetos\ResolucaoExerciciosTeste\ResolucaoExerciciosTeste\obj\Debug\net9.0\ResolucaoExerciciosTeste.dll
+C:\Users\Pichau\Desktop\Projetos\ResolucaoExerciciosTeste\ResolucaoExerciciosTeste\obj\Debug\net9.0\refint\ResolucaoExerciciosTeste.dll
+C:\Users\Pichau\Desktop\Projetos\ResolucaoExerciciosTeste\ResolucaoExerciciosTeste\obj\Debug\net9.0\ResolucaoExerciciosTeste.pdb
+C:\Users\Pichau\Desktop\Projetos\ResolucaoExerciciosTeste\ResolucaoExerciciosTeste\obj\Debug\net9.0\ResolucaoExerciciosTeste.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Projetos\ResolucaoExerciciosTeste\ResolucaoExerciciosTeste\obj\Debug\net9.0\ref\ResolucaoExerciciosTeste.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EDobMWJYGjw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\Aprendizado C Sharp\\Estudos\\Addin\\MeuAddinExcel\\AddinFinancas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\exceldna.addin\\1.8.0\\exceldna.addin.1.8.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\exceldna.integration\\1.8.0\\exceldna.integration.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
