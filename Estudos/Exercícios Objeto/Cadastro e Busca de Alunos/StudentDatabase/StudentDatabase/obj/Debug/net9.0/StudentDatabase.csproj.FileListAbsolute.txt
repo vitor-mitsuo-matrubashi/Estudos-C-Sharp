@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Exercícios Objeto\Cadastro e Busca de Alunos\StudentDatabase\StudentDatabase\obj\Debug\net9.0\StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Exercícios Objeto\Cadastro e Busca de Alunos\StudentDatabase\StudentDatabase\obj\Debug\net9.0\StudentDatabase.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Exercícios Objeto\Cadastro e Busca de Alunos\StudentDatabase\StudentDatabase\obj\Debug\net9.0\StudentDatabase.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Exercícios Objeto\Cadastro e Busca de Alunos\StudentDatabase\StudentDatabase\obj\Debug\net9.0\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Exercícios Objeto\Cadastro e Busca de Alunos\StudentDatabase\StudentDatabase\obj\Debug\net9.0\StudentDatabase.sourcelink.json
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Exercícios Objeto\Cadastro e Busca de Alunos\StudentDatabase\StudentDatabase\bin\Debug\net9.0\StudentDatabase.exe
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Exercícios Objeto\Cadastro e Busca de Alunos\StudentDatabase\StudentDatabase\bin\Debug\net9.0\StudentDatabase.deps.json
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Exercícios Objeto\Cadastro e Busca de Alunos\StudentDatabase\StudentDatabase\bin\Debug\net9.0\StudentDatabase.runtimeconfig.json
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Exercícios Objeto\Cadastro e Busca de Alunos\StudentDatabase\StudentDatabase\bin\Debug\net9.0\StudentDatabase.dll
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Exercícios Objeto\Cadastro e Busca de Alunos\StudentDatabase\StudentDatabase\bin\Debug\net9.0\StudentDatabase.pdb
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Exercícios Objeto\Cadastro e Busca de Alunos\StudentDatabase\StudentDatabase\obj\Debug\net9.0\StudentDatabase.dll
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Exercícios Objeto\Cadastro e Busca de Alunos\StudentDatabase\StudentDatabase\obj\Debug\net9.0\refint\StudentDatabase.dll
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Exercícios Objeto\Cadastro e Busca de Alunos\StudentDatabase\StudentDatabase\obj\Debug\net9.0\StudentDatabase.pdb
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Exercícios Objeto\Cadastro e Busca de Alunos\StudentDatabase\StudentDatabase\obj\Debug\net9.0\StudentDatabase.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Aprendizado C Sharp\Estudos\Exercícios Objeto\Cadastro e Busca de Alunos\StudentDatabase\StudentDatabase\obj\Debug\net9.0\ref\StudentDatabase.dll

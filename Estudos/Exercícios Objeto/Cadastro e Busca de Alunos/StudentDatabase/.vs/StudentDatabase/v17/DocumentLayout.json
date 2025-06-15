@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\Desktop\\Aprendizado C Sharp\\Estudos\\Exerc\u00EDcios Objeto\\Cadastro e Busca de Alunos\\StudentDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A448A61A-DD3B-4EF7-89A7-75A6CC4F49EC}|StudentDatabase\\StudentDatabase.csproj|c:\\users\\pichau\\desktop\\aprendizado c sharp\\estudos\\exerc\u00EDcios objeto\\cadastro e busca de alunos\\studentdatabase\\studentdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A448A61A-DD3B-4EF7-89A7-75A6CC4F49EC}|StudentDatabase\\StudentDatabase.csproj|solutionrelative:studentdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A448A61A-DD3B-4EF7-89A7-75A6CC4F49EC}|StudentDatabase\\StudentDatabase.csproj|c:\\users\\pichau\\desktop\\aprendizado c sharp\\estudos\\exerc\u00EDcios objeto\\cadastro e busca de alunos\\studentdatabase\\studentdatabase\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A448A61A-DD3B-4EF7-89A7-75A6CC4F49EC}|StudentDatabase\\StudentDatabase.csproj|solutionrelative:studentdatabase\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A448A61A-DD3B-4EF7-89A7-75A6CC4F49EC}|StudentDatabase\\StudentDatabase.csproj|c:\\users\\pichau\\desktop\\aprendizado c sharp\\estudos\\exerc\u00EDcios objeto\\cadastro e busca de alunos\\studentdatabase\\studentdatabase\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A448A61A-DD3B-4EF7-89A7-75A6CC4F49EC}|StudentDatabase\\StudentDatabase.csproj|solutionrelative:studentdatabase\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Turma.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Aprendizado C Sharp\\Estudos\\Exerc\u00EDcios Objeto\\Cadastro e Busca de Alunos\\StudentDatabase\\StudentDatabase\\Turma.cs",
+              "RelativeDocumentMoniker": "StudentDatabase\\Turma.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Aprendizado C Sharp\\Estudos\\Exerc\u00EDcios Objeto\\Cadastro e Busca de Alunos\\StudentDatabase\\StudentDatabase\\Turma.cs",
+              "RelativeToolTip": "StudentDatabase\\Turma.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswBgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:15:02.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Aprendizado C Sharp\\Estudos\\Exerc\u00EDcios Objeto\\Cadastro e Busca de Alunos\\StudentDatabase\\StudentDatabase\\Aluno.cs",
+              "RelativeDocumentMoniker": "StudentDatabase\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Aprendizado C Sharp\\Estudos\\Exerc\u00EDcios Objeto\\Cadastro e Busca de Alunos\\StudentDatabase\\StudentDatabase\\Aluno.cs",
+              "RelativeToolTip": "StudentDatabase\\Aluno.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:07:11.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Desktop\\Aprendizado C Sharp\\Estudos\\Exerc\u00EDcios Objeto\\Cadastro e Busca de Alunos\\StudentDatabase\\StudentDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "StudentDatabase\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Desktop\\Aprendizado C Sharp\\Estudos\\Exerc\u00EDcios Objeto\\Cadastro e Busca de Alunos\\StudentDatabase\\StudentDatabase\\Program.cs",
+              "RelativeToolTip": "StudentDatabase\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:49:50.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
